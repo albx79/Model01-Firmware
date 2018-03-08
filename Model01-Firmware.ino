@@ -160,10 +160,10 @@ const Key keymaps[][ROWS][COLS] PROGMEM = {
    ___),
 
   [FUNCTION] =  KEYMAP_STACKED
-  (XXX,             Key_F1,           Key_F2,         Key_F3,         Key_F4,           Key_F5, Key_LEDEffectNext,
-   Key_CapsLock,    Key_PageUp,       Key_Home,       Key_UpArrow,    Key_End,          ___,    ___,
-   ___,             Key_PageDown,     Key_LeftArrow,  Key_DownArrow,  Key_RightArrow,   ___,
-   ___,             ___,              ___,            ___,            ___,              ___,    ___,
+  (XXX,             Key_F1,           Key_F2,         Key_F3,         Key_F4,           Key_F5,     Key_LEDEffectNext,
+   Key_CapsLock,    Key_PageUp,       Key_Home,       Key_UpArrow,    Key_End,          Key_F19,    ___,
+   ___,             Key_PageDown,     Key_LeftArrow,  Key_DownArrow,  Key_RightArrow,   Key_F18,
+   ___,             Key_F13,          Key_F14,        Key_F15,        Key_F16,          Key_F17,    ___,
    ___, ___, ___, ___,
    ___,
 
